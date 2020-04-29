@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3> 互联网金融传销骗局</h3>
 		<p>今天老师带大家看一个互联网金融传销骗局，金融和传销单独来看，每位小伙伴都了解过，不过当金融遇上传销，这可就有意思了</p>

@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3>如果你爱TA，一定让TA学会理财</h3>
 		<p>"掌握正确的理财姿势，是大部分普通人致富的唯一途径。"</p>
@@ -94,7 +94,7 @@
 	</div>
 	<h6>以下部分为老师的早读感悟分享</h6>
 	<div>
-		<p style="margin-top: 40px;">老师：你劝过自己身边的人理财吗？ <img style="vertical-align: middle;width: 30px;" src="../images/yiwen.jpg" alt=""></p>
+		<p style="margin-top: 40px;">老师：你劝过自己身边的人理财吗？ <img style="vertical-align: middle;width: 30px;" src="../img/yiwen.jpg" alt=""></p>
 		<p style="margin-top: 40px;">老师：如果你跟身边的人提起过理财， 你可能得到的是如下反应：</p>
 		<p style="margin-top: 40px;">老师：1、理财？你觉得我很缺钱吗？不理财我就赚不了钱了？</p>
 		<p style="margin-top: 40px;">老师：2、老公不让学，爸妈说没用，安安心心存银行吧！</p>
@@ -104,7 +104,7 @@
 		<p style="margin-top: 40px;">老师：6、我对股票基金看见就头晕，我这智商一般也不聪明，估计学也学不会，算了还是不要学了.</p>
 		<p style="margin-top: 40px;">老师：学长也在他的群里做过一个小调查，问：</p>
 		<p style="margin-top: 40px;">老师：大家有没有向亲友推荐过理财的知识、劝人理财的经历？</p>
-		<p style="margin-top: 40px;">老师：如果有，对方是什么反应？<img style="vertical-align: middle;width: 30px;" src="../images/yiwen.jpg" alt=""></p>
+		<p style="margin-top: 40px;">老师：如果有，对方是什么反应？<img style="vertical-align: middle;width: 30px;" src="../img/yiwen.jpg" alt=""></p>
 		<p style="margin-top: 40px;">老师：得到的结果比较惨烈</p>
 		<p style="margin-top: 40px;">老师：大多小伙伴都碰了一鼻子灰</p>
 		<p style="margin-top: 40px;">老师：出现这种情况的原因往往是</p>
@@ -116,7 +116,7 @@
 		<p style="margin-top: 40px;">老师：理财不是唯一的致富途径，也不是只要理财就能赚到钱</p>
 		<p style="margin-top: 40px;">老师：也有人不理财就发达了的</p>
 		<p style="margin-top: 40px;">老师：比如他们</p>
-		<p style="margin-top: 40px;">老师：<img style="display: block;" src="../images/15.1.png" alt=""></p>
+		<p style="margin-top: 40px;">老师：<img style="display: block;" src="../img/15.1.png" alt=""></p>
 		<p style="margin-top: 40px;">老师：层次再低一点，像中国上市公司的那些创始人和原始股东，也成为了富豪</p>
 		<p style="margin-top: 40px;">老师：如果你能创立自己伟大的事业，那么理财那点“小钱”确实无足挂齿！</p>
 		<p style="margin-top: 40px;">老师：不过，这些创立了大事业的人</p>
@@ -127,7 +127,7 @@
 		<p style="margin-top: 40px;">老师：这帮“天子骄子”的数量级大约是5万人</p>
 		<p style="margin-top: 40px;">老师：占人口比例0.003%</p>
 		<p style="margin-top: 40px;">老师：看不上理财那点小钱的你，是在创立自己的事业吗？</p>
-		<p style="margin-top: 40px;">老师：你能成为这0.0029%吗？<img style="vertical-align: middle;width: 30px;" src="../images/yiwen.jpg" alt=""></p>
+		<p style="margin-top: 40px;">老师：你能成为这0.0029%吗？<img style="vertical-align: middle;width: 30px;" src="../img/yiwen.jpg" alt=""></p>
 		<p style="margin-top: 40px;">老师：都说股市七亏二平一赚</p>
 		<p style="margin-top: 40px;">老师：我二叔的大舅的三表哥炒股亏了几百万</p>
 		<p style="margin-top: 40px;">老师：理财也有亏钱的！</p>
@@ -157,7 +157,7 @@
 		<p style="margin-top: 40px;">老师：正是因为大部分人不理财</p>
 		<p style="margin-top: 40px;">老师：参与理财的人才能获得丰厚的回报！</p>
 		<p style="margin-top: 40px;">老师：</p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/15.2.png" alt=""></p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/15.2.png" alt=""></p>
 		<p style="margin-top: 40px;">好了我的分享结束了。</p>
 		<p style="margin-top: 40px;">你会劝谁去理财呢？</p>
 		<p style="margin-top: 40px;">为什么你会选TA？</p>

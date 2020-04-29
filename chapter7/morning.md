@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 			<h3>别让“等有时间再做”毁了你</h3>
 			<p style="margin-top: 40px;">你是不是也经常说“等有时间再做”？</p>
@@ -12,7 +12,7 @@
 			<p style="margin-top: 40px;font-weight: bold;">&nbsp;也许巴菲特真正牛逼的财富，不仅仅是金钱产生的复利，而是大家都忽略了的“复时间”。</p>
 			<p style="margin-top: 40px;font-weight: bold;">智力资本永远胜过金融资本</p>
 			<p style="margin-top: 40px;">和复利用来赚更多利润一样，<span style="font-weight: bold;">复时间也是用赚来的时间交换更多的价值，</span> 并且随着时间的推移呈现指数级的增长，就像下面的“花时间坐标”一样。</p>
-			<p style="margin-top: 40px;"><img src="../images/zd.1.png" alt=""></p>
+			<p style="margin-top: 40px;"><img src="../img/zd.1.png" alt=""></p>
 			<p style="margin-top: 40px;">深圳是一个狭长的城市，我住在深圳的西面，曾经有一段时间要跨越整个深圳去东面工作。在地铁上单程耗费的时间是两个半小时，来回要近五个小时。</p>
 			<p style="margin-top: 40px;">最开始，我每天路程上就是玩王者荣耀，练了好几个英雄，段位也冲上了王者，我从单纯的玩操作，上升到玩策略、玩意识，很明显地感受到从量变到质变的层次变化。后来，意识到不能被一款游戏绑架，所以开始看书、学课程。</p>
 			<p style="margin-top: 40px;">那段时间读了好几本书，学了好几位大神的课程，以至于当我拿起一本书就知道他要讲什么，看了目录就能判断是不是值的时候，我知道，复时间起效果了！&nbsp;</p>
@@ -21,7 +21,7 @@
 			<p style="margin-top: 40px;">这让我想起了一位投资大鳄的名言：<span style="font-weight: bold;">“智力资本永远胜过金融资本”</span></p>
 			<p style="margin-top: 40px;font-weight: bold;">复时间不止是复用时间</p>
 			<p style="margin-top: 40px;">我们把花费的时间和投入的事情拉出一个四象限出来：</p>
-			<p style="margin-top: 40px;"><img src="../images/zd.2.png" alt=""></p>
+			<p style="margin-top: 40px;"><img src="../img/zd.2.png" alt=""></p>
 			<p style="margin-top: 40px;">在这个“搞事情四象限”里面，“占用时间”是零碎时间，一般我们可以认为在两个小时以下。&nbsp;</p>
 			<p style="margin-top: 40px;"><span style="font-weight: bold;">1、占用时间多，又不能产生效益的事情，不要搞。</span>比如：玩游戏、看偶像剧（相关从业者除外）</p>
 			<p style="margin-top: 40px;"><span style="font-weight: bold;">2、占用时间多，产出效益高的事情，你要衡量一下，</span>是不是你需要的，如果是，干之；如果不是，你就把时间放到其他更重要的事情上去。</p>
@@ -33,18 +33,18 @@
 			<p style="margin-top: 40px;">我也喜欢吃，为什么我不是巴菲特？&nbsp;</p>
 			<p style="margin-top: 40px;">重点是，2007年，巴菲特的医生告诉他，要么健康饮食，要么保持运动。巴菲特实在舍不得放弃美食，所以选择了运动。这个好习惯对他日后的生活起到了很重要的作用，甚至帮助他战胜了前列腺癌。&nbsp;</p>
 			<p style="margin-top: 40px;">很多成功人士都保持着良好的健身习惯，我就不一一列举了，看一下你们的“王爸爸”一天的行程单：</p>
-			<p style="margin-top: 40px;"><img src="../images/zd.3.png" alt=""></p>
+			<p style="margin-top: 40px;"><img src="../img/zd.3.png" alt=""></p>
 			<p style="margin-top: 40px;">&nbsp;早上四点就起来健身了。&nbsp;</p>
 			<p style="margin-top: 40px;font-weight: bold;">2、学习</p>
 			<p style="margin-top: 40px;font-weight: bold;">学习是最值得投入时间的事情，是最符合低投入高回报的事情。</p>
 			<p style="margin-top: 40px;">牛人几乎都离不开阅读：扎克伯格每两周读一本书；巴菲特每天阅读500页；查理芒格被戏称为“长着两条腿的图书馆”……</p>
 			<p style="margin-top: 40px;">国内的俞敏洪曾经三个月读六十本书，平均一天半一本。</p>
 			<p style="margin-top: 40px;">看这张照片：</p>
-			<p style="margin-top: 40px;"><img src="../images/zd.4.png" alt=""></p>
+			<p style="margin-top: 40px;"><img src="../img/zd.4.png" alt=""></p>
 			<p style="margin-top: 40px;">俞敏洪坐在角落的一隅，正聚精会神地看书，地点是北京人民大会堂，他正在等着去开会。</p>
 			<p style="margin-top: 40px;font-weight: bold;">3、建立高质量圈子</p>
 			<p style="margin-top: 40px;">任何一项伟大的事业，都不是一个人的作用，而是基于那些创造性的组合。</p>
-			<p style="margin-top: 40px;"><img src="../images/zd.5.png" alt=""></p>
+			<p style="margin-top: 40px;"><img src="../img/zd.5.png" alt=""></p>
 			<p style="margin-top: 40px;">&nbsp;像苹果的史蒂夫·乔布斯和斯蒂夫·盖瑞·沃兹尼亚克；巴菲特和查理·芒格；比尔·盖茨和保罗·艾伦；扎克伯格和普莉希拉·陈（他老婆）……像国内的阿里十八罗汉；腾讯五虎将；小米七人……可以交流的伙伴，会带来意想不到的突破！</p>
 			<p style="margin-top: 40px;">要注意的是，我们要追求小而精的高质量人脉圈，避免鱼龙混杂的大圈子，那是浪费时间！</p>
 			<p style="margin-top: 40px;">最后，像复利是把利息一次次地滚入本金一样，<span style="font-weight: bold;">复时间也是一次一次地把时间投入到产生高效益的事情上去。</span>&nbsp;</p>
@@ -86,7 +86,7 @@
 			<p style="margin-top: 40px;">老师：时间，会帮你干掉一大部分人。</p>
 			<p style="margin-top: 40px;">老师：改变思维，马上行动，改变现状,这是我们的出路！小伙伴们，加油</p>
 			<p style="margin-top: 40px;">老师：这个道理其实人们都知道的，但能做到的人太少。所以做到的那部分少数人才会很富有。</p>
-			<p style="margin-top: 40px;"><img src="../images/zd.6.png" alt=""></p>
+			<p style="margin-top: 40px;"><img src="../img/zd.6.png" alt=""></p>
 			<p style="margin-top: 40px;">老师：好啦，今天的早读结束啦，欢迎大家输出自己的读后感哦</p>
 	</div>
 </div>

@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3>免费到底是便宜还是贵?</h3>
 		<p style="color: #000;text-align: center;font-weight: bold;">01</p>
@@ -95,7 +95,7 @@
 		<p style="margin-top: 40px;">老师：假如某人的税后月收入是8000，公司缴纳的五险一金大概就是1500，公司为这个人支出的成本就是9500，那么他每小时的收入是多少呢？</p>
 		<p style="margin-top: 40px;">老师：一个月大概上班22天，每天8小时，9500/22/8=53.9，也就是时薪54。</p>
 		<p style="margin-top: 40px;">昨天有同学想报名，然后可能觉得自己存款不多，有点犹豫，那老师来给你们再举个栗子，算个小账哈</p>
-		<p style="margin-top: 40px;"><img src="../images/mianfei-img1.jpg" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/mianfei-img1.jpg" alt=""></p>
 		<p style="margin-top: 40px;">老师：以咱们优惠后的财务自由系统课为例，咱们训练营优惠后的价格为2998元，就用我们前面计算出来的时薪54来计算，2998除以54等于55。</p>
 		<p style="margin-top: 40px;">老师：也就是说，财务自由系统课不过是我们55个小时的薪水，还不到6天的薪水！</p>
 		<p style="margin-top: 40px;">这不贵了吧？</p>

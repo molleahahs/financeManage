@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3>反常识——股票暴跌收益会更高</h3>
 		<p style="margin-top: 40px;">这节课我们来学习一下股票。先来了解一下什么是股票？</p>
@@ -12,15 +12,15 @@
 		<p style="margin-top: 40px;">如果不想自己创业，想比较舒服的实现财务自由，好公司的股票是一个非常好的选择。</p>
 		<p style="margin-top: 40px;">买好公司的股票真的能赚钱吗？</p>
 		<p style="margin-top: 40px;">我们看几个例子。</p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.1.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.1.png" alt=""></p>
 		<p style="margin-top: 40px;">贵州茅台是在中国境内上市的一家好公司，它的产品茅台酒很多同学应该都知道。</p>
 		<p style="margin-top: 40px;">我们可以看到从2003年到2018年15年间，贵州茅台的股票价格从26元涨到了4207元（后复权价），涨了160倍，年化收益率40%。2003年买1万元的贵州茅台股票，持有到2018年会变成160万。</p>
 		<p style="margin-top: 40px;">下面我们再来看一家在香港上市的好公司。</p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.2.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.2.png" alt=""></p>
 		<p style="margin-top: 40px;">腾讯控股小伙伴们应该不陌生，这家公司的产品QQ和微信，很多同学都在用。</p>
 		<p style="margin-top: 40px;">我们可以看到从2004年到2018年14年间，腾讯控股的股票价格从3.4港元涨到了2394港元（后复权价），涨了700倍，年化收益率59%。2004年买1万港元腾讯的股票，持有到2018年会变成700万港元。</p>
 		<p style="margin-top: 40px;">下面我们再来看一家在美国上市的好公司。</p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.3.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.3.png" alt=""></p>
 		<p style="margin-top: 40px;">芝加哥商品交易所是全球最大的期货交易所，世界很多投资者做期货都需要通过这个交易所才能完成。</p>
 		<p style="margin-top: 40px;">我们可以看到从2003年到2018年15年间，芝商所的股票价格从39美元涨到了1161美元（后复权价），涨了28倍，年化收益率25%。2003年买1万美元芝商所的股票，持有到2018年会变成28万美元。</p>
 		<p style="margin-top: 40px;">通过以上好公司的例子可以看出，只要你买到了好公司的股票，以公司所有者的心态长期持有。哪怕现在只有1万元，15年后你也能成为百万甚至千万富翁。</p>
@@ -32,11 +32,11 @@
 		<p style="margin-top: 40px;">为什么拿通化东宝举例呢？</p>
 		<p style="margin-top: 40px;">主要是通化东宝很普通。普通的意思是它不是很优秀的公司。若拿茅台、海天、格力这样优秀的企业举例，容易被怼“你挑的都是好公司，选好公司多难啊？这没有代表性”，而通化东宝这家公司，市场同类竞争对手多，在上市公司中并不算很好的公司，最多算是中等偏上，比较有代表性。</p>
 		<p style="margin-top: 40px;">我们看一下通化东宝在行业中的地位。</p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.4.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.4.png" alt=""></p>
 		<p style="margin-top: 40px;">净资产收益率在行业中排名第7。</p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.5.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.5.png" alt=""></p>
 		<p style="margin-top: 40px;">毛利率在行业中排名第16。</p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.6.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.6.png" alt=""></p>
 		<p style="margin-top: 40px;">每股收益在行业中排名第17。</p>
 		<p style="margin-top: 40px;">以上行业排名还只是在医药生物中的生物制品细分领域的排名，如果是在医药行业中的排名，排名还要靠后很多。因为生物制品中没有包括像恒瑞医药、云南白药这样优秀的医药公司。</p>
 		<p style="margin-top: 40px;">所以无论怎么看，通化东宝都不是一家非常优秀的公司。</p>
@@ -45,9 +45,9 @@
 		<p style="margin-top: 40px;">现在来假设，你买入后持有不动至2018年6月30日，中间既没有逃掉大顶，也没有抄到大底。简单说，就是你完全忘记了股价的波动，满仓经历了所有的腰斩。你所做的，只是在<span style="color: red;">每年收到分红时，直接按照当时股价无脑买入。</span></p>
 		<p style="margin-top: 40px;">为方便计算，假设年度分红送转均在次年6月30日当日到账，中期分红送转均在当年12月30日到账，买入一律以当天收盘价格成交。同时，保守起见，红利税一律按照10%假设（实际现在持有超过1年免税），而买入股票的交易税费则按照0.5%计算（实际印花税0.3%，交易佣金一般在0.03%）。</p>
 		<p style="margin-top: 40px;">将这15年分红送转数据录入excel，并统计年度及半年度收盘价后，得出下表。</p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.7.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.7.png" alt=""></p>
 		<p style="margin-top: 40px;">经计算，至今你持有80323股通化东宝，按照2018年6月底收盘价23.97元计算，<span style="color: red;">当前市值192.5万元，15年的年化收益率24%。</span></p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.8.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.8.png" alt=""></p>
 		<p style="margin-top: 40px;">这里说下，这192.5万已经包含了全部分红在内，其中最近的2017年税后分红是11959元。</p>
 		<p style="margin-top: 40px;color: red;">怎么样？厉害了吧？一家中等偏上的上市公司，持有15年一动不动，7.64万变192.5万！</p>
 		<p style="margin-top: 40px;">通过通化东宝的例子我们可以知道长期持有优秀的上市公司肯定能赚大钱。</p>
@@ -59,9 +59,9 @@
 		<p style="margin-top: 40px;">为方便计算，咱们直接假设通化东宝股价每半年匀速下跌20%，2018年6月30日的收盘价为0.01元，其他条件不变。</p>
 		<p style="margin-top: 40px;font-weight: bold;color: red;">经历一个持续15年的超级恐怖大熊市，你的7.64万，究竟会剩下多少呢？</p>
 		<p style="margin-top: 40px;color: red;">还够吃一碗兰州拉面吗？我们来看一下</p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.9.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.9.png" alt=""></p>
 		<p style="margin-top: 40px;">截止到2018年6月30日，<span style="color: red;">你持有通化东宝245亿股，股价0.01元，对应市值2.32亿元，年化收益率70.68%。</span></p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.10.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.10.png" alt=""></p>
 		<p style="margin-top: 40px;color: red;">股价跌到0.01元时候的市值居然比实际股价23.97元的市值多了2个多亿。</p>
 		<p style="margin-top: 40px;font-weight: bold;color: red;">看到没？股价持续大暴跌的收益居然秒杀股价大涨！！</p>
 		<p style="margin-top: 40px;">但是这不是重点。</p>
@@ -75,7 +75,7 @@
 		<p style="margin-top: 40px;">要选到通化东宝或者优于通化东宝的公司，是需要学习选股方法的。学好了财报分析、企业经营方法<span style="color: red;">（特别是关于商业模式、护城河、领导者、团队、企业文化的分析）</span>才可能选出好公司。</p>
 		<p style="margin-top: 40px;">选出好公司才是投资成功的关键，而不是价格的涨跌。只要能选出好公司，价格无论涨跌都能赚大钱。但是如果你选的是垃圾公司，利润不断下降甚至是亏损的。这个时候股价暴跌就是真亏了。你是赚不了钱的。</p>
 		<p style="margin-top: 40px;">我们来看一个股价大暴跌，你只要买了基本就会亏的股票。</p>
-		<p style="margin-top: 40px;"><img src="../images/wan5.11.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wan5.11.png" alt=""></p>
 		<p style="margin-top: 40px;">金杯汽车就是这样一家割你韭菜没商量的上市公司。人家别的上市公司一般都是拦腰割你，金杯汽车是从根上割你。</p>
 		<p style="margin-top: 40px;">金杯汽车为什么能成为割韭菜界的联合收割机？主要是因为它足够烂，是一家很纯粹的烂公司。连续26年不分红，当然主要是它这26年亏多赚少，如果不是政府补贴它早就因亏损退市了。</p>
 		<p style="margin-top: 40px;">所以这里我要特别强调一下：<span style="color: red;font-weight: bold;">好公司的股价持续大暴跌你会赚大钱；垃圾公司的股价持续大暴跌你会亏大钱。</span></p>

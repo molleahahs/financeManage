@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3>手把手教你查看常用理财工具</h3>
 		<p style="margin-top: 40px;">同学们好，这节课我们来学习下如何查看理财工具的信息。</p>
@@ -7,42 +7,42 @@
 		<p style="margin-top: 40px;">怎么操作呢？我们以雪球举例！雪球既可以在电脑上操作，也可以下载手机App</p>
 		<p style="margin-top: 40px;">如果你用电脑比较方便，可以打开雪球网</p>
 		<p style="margin-top: 40px;"><a href="https://xueqiu.com">https://xueqiu.com</a></p>
-		<p style="margin-top: 40px;"><img src="../images/new7.6.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.6.png" alt=""></p>
 		<p style="margin-top: 40px;">在搜索框里我们就可以搜索相应的理财工具</p>
 		<p style="margin-top: 40px;">当然啦，对于大部分同学来说，肯定是手机更方便。我们下载雪球手机App，在应用商店里搜索雪球股票</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.7.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.7.png" alt=""></p>
 		<p style="margin-top: 40px;">我们把雪球下载下来，我们首先要创建一个自己的雪球账户，这样以后了解到不错的理财工具可以收藏在自己的账户里。打开之后我们点左上角</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.8.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.8.png" alt=""></p>
 		<p style="margin-top: 40px;">进来之后，我们点登录雪球</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.9.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.9.png" alt=""></p>
 		<p style="margin-top: 40px;">我们选择手机号登录，然后输入手机号注册一下</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.10.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.10.png" alt=""></p>
 		<p style="margin-top: 40px;">登录进来之后，我们点自选，然后点右上角</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.11.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.11.png" alt=""></p>
 		<p style="margin-top: 40px;">进来之后，我们到管理分组，然后点新建分组，输入组名，给理财工具归类，这样可以方便我们以后查看理财工具</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.12.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.12.png" alt=""></p>
 		<p style="margin-top: 40px;">我们要分别创建逆回购，货币基金，分级基金A，可转债，指数基金，A股，港股，美股，香港REITs，和美国REITs。</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.13.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.13.png" alt=""></p>
 		<p style="margin-top: 40px;">到这里我们的准备工作就完成啦，接下来我们一个个来了解下。我们回到主页之后上面就是搜索框，其它的内容不用关注。</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.14.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.14.png" alt=""></p>
 		<p style="margin-top: 40px;">在搜索框里，我们可以搜索理财工具的名称或者代码。</p>
 		<p style="margin-top: 40px;">首先我们看一下逆回购，逆回购分为上交所和深交所逆回购，上交所逆回购是GC开头，比如1天期代码就是GC001，资金门槛是10万；深交所逆回购是R-开头，比如1天期代码就是R-001，资金门槛是1000元。</p>
 		<p style="margin-top: 40px;">我们在搜索框输入R-001，就可以看到1天期逆回购的行情走势啦</p>
 		<p style="margin-top: 40px;">比如当前R-001报价是2.401，这是买一份的价格吗？</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.15.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.15.png" alt=""></p>
 		<p style="margin-top: 40px;">不是的，逆回购的报价其实是利率，这个2.401代表你把钱借出去一天的年化收益率是2.401%。</p>
 		<p style="margin-top: 40px;">这个利率不算高，一般逆回购在月底的时候收益可能会飙升到10%以上，这个时候就是操作的好机会。我们调整到月线看一下</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.16.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.16.png" alt=""></p>
 		<p style="margin-top: 40px;">调整到月线后，每根柱子代表一个月，我们只需要看走势就可以啦。其它的信息可以过滤，比如行情图下面的成交量等不用看。</p>
 		<p style="margin-top: 40px;">这里提醒大家行情软件是辅助我们了解理财工具的，一定要了解重要信息，不能被无效信息干扰！</p>
 		<p style="margin-top: 40px;">我们看到逆回购利率最高的时候高达40.09%，这是市场白送的钱，只要你会技能，就可以抓住。</p>
 		<p style="margin-top: 40px;">那么现在逆回购的利率不合适怎么办呢？我们可以把逆回购先加入自选，方便下次查看，等到逆回购利率超过10%再操作。</p>
 		<p style="margin-top: 40px;">怎么加入自选呢？点一下右下角的加自选，然后放入逆回购组，点确定就可以啦。非常方便！ </p>
-		<p style="margin-top: 40px;"><img src="../images/new7.17.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.17.png" alt=""></p>
 		<p style="margin-top: 40px;">我们再来看看货币基金，看一下建信添益，代码是511660</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.18.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.18.png" alt=""></p>
 		<p style="margin-top: 40px;">货币基金的价格一般在100附近，波动非常小。对于货币基金来说，我们主要赚持有期间的利息，收益一般在3%附近，最好在100元以下的时候买入。我们把建信添益加入自选，放入货币基金组</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.19.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.19.png" alt=""></p>
 		<p style="margin-top: 40px;">逆回购和货币基金组合使用有一个小技巧，掌握了就可以白捡钱！</p>
 		<p style="margin-top: 40px;">我们在假期前两天买一天期的逆回购，这样实际计息天数并不只是1天，而是算上整个假期的天数。然后假期前一天可以再买入上交所货币基金（建信添益），又可以享受整个假期货币基金的收益。这样一笔资金，同时可以获得逆回购和货币基金的收益。</p>
 		<p style="margin-top: 40px;">我们来举个例子，比如过去的春节是2月2日到2月10日休市</p>
@@ -50,50 +50,50 @@
 		<p style="margin-top: 40px;">这还不止，由于你买的是1天期逆回购，第二天就能用这笔资金了，这个时候你还可以买建信添益，这样又能享受10天货币基金的收益。</p>
 		<p style="margin-top: 40px;">如果假期的时候逆回购的收益正好比较高，那简直就是白白送钱，同学们千万不要错过了！</p>
 		<p style="margin-top: 40px;">我们再来看看分级基金A，看一下银行A（150227）</p>  
-		<p style="margin-top: 40px;"><img src="../images/new7.20.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.20.png" alt=""></p>
 		<p style="margin-top: 40px;">分级基金A的价格在1附近上下波动，银行A最低价在0.755，最高价在1.120，当前的价格是0.989，这个价格不适合买入。</p>
 		<p style="margin-top: 40px;">如果后期银行A跌到0.85附近，那么可以考虑买入。分级基金A的价格一定会回到1，对应无风险价差收益也有（1-0.85）/0.85=17.6%。我们可以先把银行A加入自选，放入分级基金A组里。</p>
 		<p style="margin-top: 40px;">再来看一下可转债，搜索海印转债（127003）</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.21.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.21.png" alt=""></p>
 		<p style="margin-top: 40px;">我们看到海印转债最低价81.6，近期最高价在116.66，半年多的时间涨幅超过40%。我们买可转债要在90元以下的价格买入，这时候高信用等级可转债几乎没有风险却对应着高收益。我们把海印转债加入自选，放入可转债组。等待以后出现好机会。</p>
 		<p style="margin-top: 40px;">我们再来看一下指数基金，搜索红利基金（501029）</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.22.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.22.png" alt=""></p>
 		<p style="margin-top: 40px;">我们看到红利基金从今年年初的0.82元涨到了当前1.109元，3个多月的的时间涨幅高达35%，我们把红利基金加入自选，放入指数基金组。</p>
 		<p style="margin-top: 40px;">我们再来看一下A股，搜索贵州茅台（600519）</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.23.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.23.png" alt=""></p>
 		<p style="margin-top: 40px;">我们看到贵州茅台当前价格911元，但走势图上的价格是7024.52元，相差非常大，这是怎么回事呢？</p>
 		<p style="margin-top: 40px;">这里我们看到的是贵州茅台后复权的价格走势，后复权的价格加上了贵州茅台这些年的分红送转，这才是贵州茅台的真实股价。</p>
 		<p style="margin-top: 40px;">那茅台这些年分了多少钱呢？茅台2001年上市融资22亿，当时市值80亿， 18年下来累计分红575亿，市值1.14万亿，增值142倍。这说明什么呢？简单来说，如果你在茅台上市的时候买入10万块钱茅台，那么你现在有1420万。即便不算茅台股票的价格的上涨，光分红都能收到70万！是本金的7倍！本金通过分红早已收回，永远没有亏本的风险。这就是生钱资产！</p>
 		<p style="margin-top: 40px;">我们来看一下贵州茅台的历史分红情况，我们点击行情走势图下方的简况，往下拉之后可以看到分红融资，就可以看到贵州茅台近几年的分红情况</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.24.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.24.png" alt=""></p>
 		<p style="margin-top: 40px;">如果我们想要查看更多的分红数据怎么办呢？我们点一下右箭头，可以看到贵州茅台所有的历史分红数据</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.25.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.25.png" alt=""></p>
 		<p style="margin-top: 40px;">我们看到贵州茅台2015年是每股分红4.374元，而2019年是每股分红高达14.539元，贵州茅台的分红几乎每年都在增加，近5年的时间分红也翻了3倍！</p>
 		<p style="margin-top: 40px;">同时我们看到贵州茅台从上市初30多元，到现在最高价7024元。算上分红和价差收益，18年的时间高达100多倍，比投资房地产的收益还要高的多！这就是长期持有一家好公司的惊人收益！</p>
 		<p style="margin-top: 40px;">我们再点一下右上角的竖三点，可以看下详细数据</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.26.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.26.png" alt=""></p>
 		<p style="margin-top: 40px;">这里面的信息，重要的就是TTM市盈率以及股息率，其它信息可以忽略。</p>
 		<p style="margin-top: 40px;">贵州茅台是一家非常好的公司，2018年贵州茅台的价格一度跌到550附近，如果当时买入贵州茅台，不到1年时间收益率接近70%。前期在上实践课时就做过茅台的案例分析，很多同学在500多元价格买进了茅台！我们把贵州茅台加入自选，放入A股，以后出现合适的价格可以关注。</p>
 		<p style="margin-top: 40px;">我们再来看一下港股，搜索腾讯控股（00700）</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.27.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.27.png" alt=""></p>
 		<p style="margin-top: 40px;">腾讯2004年上市的时候发行价只有3.7，后来还一度下跌。我们看到后复权最高价2506块钱，15年的时间涨幅高达600多倍。腾讯也是一家非常好的公司，2018年腾讯的价格跌到251元，如果当时买入，不到1年的时间收益率已经接近60%！我们可以把腾讯加入自选，放入港股。等待以后出现好机会。</p>
 		<p style="margin-top: 40px;">美股市场我们来看一下Facebook</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.28.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.28.png" alt=""></p>
 		<p style="margin-top: 40px;">Facebook在2012年上市，最低价只有17.55元，2018年最高价在218.62元。7年的时间涨幅超过10倍，这个收益也是非常不错的。我们把Facebook加入自选，放入美股。</p>
 		<p style="margin-top: 40px;">我们再来看一下REITs，首先看一下香港REITs，我们搜索置富产业信托（00778）</p>
 		<p style="margin-top: 40px;">我们看到置富产业信托最低价3.28元，最高价10.42，9年的时间价格翻了3倍多。另外REITs每年还能收到稳定的分红，置富目前的分红率大概5%附近，远高于银行存款的收益。我们先把置富产业信托加入自选，放入香港REITs。</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.29.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.29.png" alt=""></p>
 		<p style="margin-top: 40px;">最后我们来看一下美国REITs，搜索PSA</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.30.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.30.png" alt=""></p>
 		<p style="margin-top: 40px;">PSA已经有20多年了，最低价13.5元，最高价在277.6元。可以看到PSA几乎每年都在上涨。那PSA每年的分红怎么样呢？我们点到简况里看一下分红情况</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.31.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/new7.32.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.31.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.32.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">我们看到PSA每年都在稳定的分红，而且分红持续增长。</p>
 		<p style="margin-top: 40px;">PSA2018年每股分红8美元，2008年的时候美国发生金融危机，PSA最低的时候跌到40多元。</p>
 		<p style="margin-top: 40px;">如果我们在50元的价格买入10万元的PSA，持有到2019年价格涨到了219元，变成43.8万，翻了4倍。而且以后每年光分红至少也能收到1.6万！</p>
 		<p style="margin-top: 40px;">相信同学们已经发现了，长期持有生钱资产，你的收益会非常高！同学们想不想拥有生钱资产呢？</p>
 		<p style="margin-top: 40px;">好啦，到这里我们就把各类理财工具都加入到自选里啦，这样以后我们方便查看，比如我们要看A股有没有合适的股票，就切换到A股界面，非常的方便！</p> 
-		<p style="margin-top: 40px;"><img src="../images/new7.33.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.33.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">今天的分享就到这里，大家一定要自己动手操作一下，熟练使用行情软件，出现好机会，我们就可以买入优质生钱资产啦!</p>
 		<p style="margin-top: 40px;">行情软件是查看理财工具的，证券账户是用来买卖理财工具的。下面再来看一看证券账户，</p>
 		<p style="margin-top: 40px;font-weight: bold;">先了解一下证券账户有哪9大功能？</p>
@@ -108,25 +108,25 @@
 		<p style="margin-top: 40px;"><span>9、免费跨行转账</span>（和证券账户绑定的银行卡之间可以免费转账）</p>
 		<p style="margin-top: 40px;">下面给大家演示一下怎么使用华泰证券买卖主要的理财工具。</p>
 		<p style="margin-top: 40px;">打开华泰证券的手机APP“涨乐财富通”，可以看到以下页面</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.34.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.34.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">点击“买”输入相应代码，可以买进股票、可转债、国债逆回购、货币基金、指数基金等理财工具。</p>
 		<p style="margin-top: 40px;">以指数基金为例，点“买”后，输入代码510300，再点击“买入”就可以了。</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.35.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.35.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">下面看一下怎么申购新股，这是一种获得无风险高收益的有效途径。</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.36.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.36.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">点击“打新神器”进入以下页面</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.37.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.37.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">点击“新股申购”就可以申购新股了。能不能申购到凭运气，一般只要申购到就会赚钱，收益率高达100%-300%。</p>
 		<p style="margin-top: 40px;">这里顺便说以下申购新债，点击“新债申购”就可以申购了。申购还是很容易中的，一般只要申购到就会赚钱，收益率在10%-30%之间。</p>
 		<p style="margin-top: 40px;">下面看下怎么申购、定投场外基金</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.38.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.38.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">点击“基金交易”，然后点击“公募及私募基金”可以看到以下页面</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.39.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.39.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">点击“购”可以购买或申购基金，点“定投”可以进行基金定投，非常方便。</p>
 		<p style="margin-top: 40px;">下面看一下券商理财产品</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.40.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.40.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">点“理财”，然后点“稳健收益”，可以看到以下页面</p>
-		<p style="margin-top: 40px;"><img src="../images/new7.41.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/new7.41.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">点“灵活期限”可以看到华泰证券的理财产品，“华泰资金货币增强”和“天天财”的年化收益率都在4%左右，这两个都是无风险理财产品。</p>
 		<p style="margin-top: 40px;">好了，如何使用证券账户我们就演示这么多啦</p>            
 		<p style="margin-top: 40px;">---------------------------------------------------------</p>
@@ -142,7 +142,7 @@
 		<p style="margin-top: 40px;">后来我碰巧在“在行”首页上看到封老师开的一个话题：如何从零开始你的财务自由之路。</p>
 		<p style="margin-top: 40px;">财务自由？当时看到这个词语一下就被吸引到了。虽然感觉自己离财务自由很遥远，但还是有种强烈的冲动想要了解一下。</p>
 		<p style="margin-top: 40px;">进入封老师的在行页面，看到约见封老师1个小时要1499元。</p>
-		<p style="margin-top: 40px;"><img src="../images/feng.png" alt=""></p><p></p>
+		<p style="margin-top: 40px;"><img src="../img/feng.png" alt=""></p><p></p>
 		<p style="margin-top: 40px;">这也太贵了吧。于是我就不打算约了。不过还是忍不住看了一下其他见过的人对封老师的评价，看到见过封老师的人都收获很大，我还是决定咬咬牙约见封老师一下。大不了少买一件衣服吧。</p>
 		<p style="margin-top: 40px;">于是我就下单约了封老师，这次的见面真的可以说是颠覆了我的世界观：原来我之前的世界一直在围着钱转，围着钱去做事。钱控制了我，我却没有能力掌控钱。我虽然收入比较高，但都是工资收入，没有非工资收入。而且我的支出绝大部分都是欲望支出，这些都是坏支出。这些支出未来不会给我带来任何的收入。我的负债也是耗钱资产形成的坏负债而不是生钱资产形成的好负债。这些坏负债也在不停的消耗我的钱，这是我收入比较高但是依然很穷的根源。</p>
 		<p style="margin-top: 40px;">封老师让我了解了我财务问题的根源，也让我看到了钱也可以为我工作，我也可以向富人一样生活，我也可以不靠出卖体力、脑力劳动来赚钱。</p>
@@ -183,18 +183,18 @@
 		<p style="margin-top: 40px;">直到9月13号再次分派股息的时候单子都没有成交。9月13日的时候，我看到每股股息提高了到0.12港元，下次股息很可能要高于0.12港元。这样每年的股息至少就要0.24港元了。根据8%的动态股息率，好价格应该调整为3港元。于是我就把挂单价修改成了3港元。</p>
 		<p style="margin-top: 40px;">就这样在我修改了价格之后的第7个交易日，居然成交了。要知道当天的最低价只是2.99港元，就比我的挂单价低了0.01港元。还是比较幸运的。然而更幸运的是，在单子成交的第二天，价格就上涨了35%以上，收盘涨幅还有34.67%。主要原因是有股东打算溢价60%收购春泉。</p>
 		<p style="margin-top: 40px;">附上一张春泉的走势图。</p>
-		<p style="margin-top: 40px;"><img src="../images/7.2.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/7.2.png" alt=""></p>
 		<p style="margin-top: 40px;">黑色箭头为第1次挂单日；橙色箭头为调整挂单价日；蓝色箭头为成交日；绿色为持仓单截图日。</p>
 		<p style="margin-top: 40px;">我第一次买REITs，第二天就赚了34.67%。真的把我高兴坏了。我投入了84000港元，一天就赚了29120港元，大概26000元人民币。</p>
 		<p style="margin-top: 40px;">在我的人生中还从来没有1天赚过那么多钱，其实我一个月也没有赚过那么多钱。由于这种感觉太美好了，我还专门保留了持仓单留作纪念。</p>
-		<p style="margin-top: 40px;"><img src="../images/7.3.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/7.3.png" alt=""></p>
 		<p style="margin-top: 40px;">看到春泉一天涨了那么多，我突然有点不知道该怎么办了。由于担心后面价格下跌，我就在第二天卖掉了春泉。到手净赚约2.6万人民币。</p>
 		<p style="margin-top: 40px;">卖掉春泉之后我就挂了单子买越秀，但是挂了一个月还是还没有成交。后来我发现了趣头条这个股票，当我用企业分析模板分析了趣头条之后，我意识到我发现了个金矿。趣头条有比较强的护城河，我自己也是趣头条的用户，我认为他们产品做的很好。我计算出趣头条的好价格为4.48美元，就挂了4.48美元的买入价格。在我挂单半个月之后，好价格就出现了，挂单就自动成交了。</p>
-		<p style="margin-top: 40px;"><img src="../images/7.4.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/7.4.png" alt=""></p>
 		<p style="margin-top: 40px;">蓝色箭头所指的那天为挂单成交日。</p>
 		<p style="margin-top: 40px;">现在我已经持有1个多月了，目前盈利90%，赚了12960美元，将近9万元人民币。</p>
 		<p style="margin-top: 40px;">一个多月赚的钱比我过去一年的工资存款都多。这种快乐的感觉只有亲身经历过的人才能体会，很难用语言描述出来。另外我已经发动我姐学习理财啦。</p>
-		<p style="margin-top: 40px;"><img src="../images/7.5.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/7.5.png" alt=""></p>
 		<p style="margin-top: 40px;">趣头条现在的价格已经开始脱离内在价值了，后期价格是涨是跌就有较大不确定性了，打算近期卖掉。卖掉之后我要带父母去泰国旅游一次，我们还没出国玩过呢，现在终于可以去啦。</p>
 		<p style="margin-top: 40px;">下面简单总结一下我的操作。第一次操作REITs赚钱有较大的运气成分，但是也有必然性。因为我是按照课程中计算好价格的方法严格执行的。美股赚钱，这个没有运气成分，完全是按分析去执行的。</p>
 		<p style="margin-top: 40px;">最后说一下我的切身体会：一定要认真学习理财，你现在学的越好，后面收益就越高。</p>

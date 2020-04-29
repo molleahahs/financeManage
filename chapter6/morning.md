@@ -1,11 +1,11 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3>8岁小女孩问倒巴菲特，为啥那么牛？ </h3>
 		<p>2018年，巴菲特股东大会吸引了全球超过5万名参会者，其中来自中国的投资人接近四分之一。</p>
 		<p>在长达5个小时的提问环节，巴菲特和芒格共回答了近60个问题。在这些问题中，巴菲特竟然被一个8岁的小女孩“问倒了”！</p>
-		<div style="margin-top: 40px;"> <img src="../images/5.1.png" alt=""></div>
-		<div style="margin-top: 40px;"> <img src="../images/5.2.png" alt=""></div>
+		<div style="margin-top: 40px;"> <img src="../img/5.1.png" alt=""></div>
+		<div style="margin-top: 40px;"> <img src="../img/5.2.png" alt=""></div>
 		<p style="font-weight: bold;">下面是小女孩儿的提问以及巴菲特的回答：</p>
 		<p style="padding-left: 15px;"><span style="font-weight: bold;">问：</span>我已经是伯克希尔-哈撒韦公司两年的股东了，这是我第二次参加年度股东大会了。巴菲特先生，你能否向我解释为什么伯克希尔近期最大的投资背离了你以往有效的投资哲学，为什么您投资了北柏林顿铁路公司，而不是投资像美国运通这样有资本效率的公司。</p>
 		<p style="margin-top: 40px;padding-left: 15px;"><span style="font-weight: bold;">答：</span>你的问题难道到我了，庆幸她还没有长到9岁，我坐在这只想一个问题，明年我们要踢掉6位专门小组成员中的哪一位，让你来替代他们的位置（哄堂大笑）。</p>
@@ -16,15 +16,15 @@
 		<p style="margin-top: 40px;">他最后对小女孩笑说：“但是在我们资产配置部门，肯定会有一个工作为你做好准备，长大了就来吧。”</p>
 		<p style="margin-top: 40px;">这个8岁的小姑娘到底何方神圣呢？居然能把身经百战，神一样存在的股神巴菲特老爷爷问倒？</p>
 		<p style="margin-top: 40px;">出于好奇，有网友就扒一扒这位小姑娘的背景。</p>
-		<div style="margin-top: 40px;"><img src="../images/5.3.png" alt=""></div>
+		<div style="margin-top: 40px;"><img src="../img/5.3.png" alt=""></div>
 		<p style="margin-top: 40px;">小姑娘名叫达芙妮，小小年纪，已是两家上市公司股东，而且市值不低，被誉<span style="font-weight: bold;">“最牛小股东”</span>。</p>
-		<div style="margin-top: 40px;"><img src="../images/5.4.png" alt=""></div>
+		<div style="margin-top: 40px;"><img src="../img/5.4.png" alt=""></div>
 		<p>5岁时，她父亲就给她读巴菲特的传记《滚雪球》。</p>
 		<p>5岁就开始财商教育了，这比巴菲特还早好几年呢。要知道巴菲特11岁才开始了人生的第一股票投资。而且金额只有114美元。</p>
 		<p>这位叫达芙妮的小姑娘值得我们重点关注，或许巴菲特之后的股神就是她了。</p>
 		<p>那么这位5岁开始学习财商知识，8岁问倒巴菲特小姑娘的爸爸是做什么的呢？</p>
 		<p>“她爸是资产管理公司的创始人兼CEO。”</p>
-		 <div style="margin-top: 40px;"><img src="../images/5.5.png" alt=""></div>
+		 <div style="margin-top: 40px;"><img src="../img/5.5.png" alt=""></div>
 		<p>看来财商也会遗传的。有这么一位高财商爸爸，女儿财商想不高也难呢。想想股神巴菲特老爷爷不也同样有一位股票经纪人爸爸吗？</p>
 		<p>突然我发现了一个真相：父母的财商是孩子财商的起点。要想让自己的孩子财商高，最好的方式就是父母自己先提高自己的财商。这样孩子一出生，在财商方面就赢在了起步线上。</p>
 	</div>

@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3> 房地产投资骗局</h3>
 		<p>今天老师带小伙伴们了解下房地产投资骗局</p>

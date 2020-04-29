@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3>理财不被割韭菜</h3>
 		<p style="margin-top: 40px;">这一两年“割韭菜”这个词突然火起来了，主要是因为很多人被割了韭菜。比如股市大跌，很多炒股的人被割了韭菜；P2P爆雷，很多P民被割了韭菜；虚拟货币滥发，很多炒币的人被割了韭菜；楼市限售，很多炒房的人被割了韭菜。 </p>
@@ -10,7 +10,7 @@
 		<p style="margin-top: 40px;">生活中不会理财的人通常把钱存银行或买余额宝之类的现金类理财产品。这样是不是就不会被割韭菜了呢？</p>
 		<p style="margin-top: 40px;">当然不是。其实通货膨胀是世界上最强大的韭菜联合收割机。它收割所有持有现金或现金类投资工具的人。</p>
 		<p style="margin-top: 40px;">通货膨胀割韭菜的能力有多强大？我们先来看一个报道。 </p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke5.1.png" alt=""> </p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke5.1.png" alt=""> </p>
 		<p style="margin-top: 40px;">报道称，厦门一女子44年前（1973年）存入银行1200元，历经44年，得到1484.04元利息，如今取出2684.04元。</p>
 		<p style="margin-top: 40px;">存了1200元，赚了1484.04元的利息，看起来好像还不错哈。 </p>
 		<p style="margin-top: 40px;">那么1973年的1200元能做什么呢？ </p>
@@ -27,7 +27,7 @@
 		<p style="margin-top: 40px;">其中M为货币量，V为货币流通速度，P为价格水平，T为交易的商品总量。在社会中V和T一般是比较稳定的，所以货币量M决定物价P。货币越来越多，物价就会持续上涨。 </p>
 		<p style="margin-top: 40px;">比如你有1万元存款，随着物价的上涨，你能买的东西越来越少，这样钱就越来越不值钱了。这就是通货膨胀。 </p>
 		<p style="margin-top: 40px;">那么我们手中的钱每年会贬值多少呢？各个政府都会定期公布一个叫CPI的数据，CPI的名字叫消费者物价指数。但是这个数据都是不准的，一般都是远低于真实的数值。至于为什么？自己脑补哈 </p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke5.2.png" alt=""> </p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke5.2.png" alt=""> </p>
 		<p style="margin-top: 40px;">可以看到中国在80和90年代都出现过钱一年贬值20%左右的情况。这还是官方数据，实际贬值情况大家自己想象。 </p>
 		<p style="margin-top: 40px;">最近20年官方公布的CPI数值基本在0-8%之间，看起来还不错。那么真实的CPI是多少呢？钱每年实际贬值到底是多少呢？</p>
 		<p style="margin-top: 40px;">下面老师教大家计算你的钱每年实际会贬值多少。</p>
@@ -37,14 +37,14 @@
 		<p style="margin-top: 40px;">GDP增长率反映了一个国家每年创造的商品和服务的增长速度。 </p>
 		<p style="margin-top: 40px;">将M2增长率减去GDP增长率，就可以理解为，货币增长比商品和服务增长多出来的部分，这就是实际的CPI，也叫实际通货膨胀率。它能比较准确反映出你手中的钱每年实际的贬值情况。</p>
 		<p style="margin-top: 40px;">这里老师整理了过去20年（1998-2018）的重要数据，计算了我们国家的实际通货膨胀率：</p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke5.3.png" alt=""> </p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke5.3.png" alt=""> </p>
 		<p style="margin-top: 40px;">我们可以看到中国过去20年的实际年化通胀率为10.04%（这里的通胀率是实际年化通胀率，不是某年实际通胀率，某年的实际通胀率可能会高于或低于这个数值），是不是比官方公布的高多啦？</p>
 		<p style="margin-top: 40px;">可以说过去20年通货膨胀让每个持有现金的人实际年化亏损10%。如果你比其他人聪明一点，买了余额宝之类的现金类理财产品。那么你每年的实际亏损大概是7%左右。</p>
 		<p style="margin-top: 40px;">假如你现在有10万元，按照每年实际亏损7%计算，20年后会贬值多少呢？</p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke5.4.png" alt=""> </p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke5.4.png" alt=""> </p>
 		<p style="margin-top: 40px;">假如你现在有10万元存银行或买余额宝，20年后实际亏损7.7万，还剩2.3万。 </p>
 		<p style="margin-top: 40px;">如果你现在有10万元，退休时（按35年计算）会贬值多少呢？</p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke5.5.png" alt=""> </p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke5.5.png" alt=""> </p>
 		<p style="margin-top: 40px;">假如你现在有10万元存银行或买余额宝，35年后实际亏损9.21万，还剩0.79万。实际亏损比例高达92.1%。这真是太恐怖了！</p>
 		<p style="margin-top: 40px;">现在回头想想开头报道里的那位土豪女士，老师可以确定老师的计算并不是假设，而是现实。</p>
 		<p style="margin-top: 40px;">由于通货膨胀的存在，不理财注定是逃脱不了被通货膨胀割韭菜的命运的。</p>
@@ -111,7 +111,7 @@
 		<p style="font-weight: bold;">韭菜的第三大特点：不学习或不深入学习，盲目乱投资 </p>
 		<p style="margin-top: 40px;">韭菜渴望通过投资快速暴富，但是不愿意学习。这样从一开始就注定了被割的命运。这是通过虚拟货币割了大批韭菜的割韭菜专家李笑来与刘润在朋友圈的对话。 </p>
 		<p style="margin-top: 40px;">发给大家看看。 </p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke5.6.png" alt=""> </p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke5.6.png" alt=""> </p>
 		<p style="margin-top: 40px;">说实话老师非常讨厌这种割了韭菜还骂韭菜脑残的人。好像他的割韭菜行为像是普渡韭菜一样。李的逻辑是，既然你是韭菜，那么我不割你就对不起你。 </p>
 		<p style="margin-top: 40px;">老师希望每位小伙伴都能认真学习理财，不然后面被人割了韭菜亏了钱不说，还要被别人骂“无能”。这真是奇耻大辱呢！ </p>
 		<p style="margin-top: 40px;">老师没有在微淼学习之前也被割过几次韭菜，现在回想起来还有一些难过，老师深知韭菜的痛苦！ </p>
@@ -144,9 +144,9 @@
 		<p style="margin-top: 40px;">2.剩下的钱买了一只股票，我现在钱不多，需要通过股票快点把“鹅”养大 </p>
 		<p style="margin-top: 40px;">由于之前还房贷压力较大，我变成了拼多多的忠实用户，主要是价格便宜。我发现在拼多多上买的大部分商品还是物超所值的。在用企业分析模型分析了拼多多的财报和护城河之后，我认为这是一家很有前途的公司。通过课程里的方法我计算出拼多多的好价格为17.6美元。 </p>
 		<p>于是我就在11月14日拼多多下跌之后开始上涨的时候以17.13美元的价格买入了11000多美元的拼多多。</p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke5.7.png" alt=""> </p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke5.7.png" alt=""> </p>
 		<p style="margin-top: 40px;">现在已经持有了快2个月了，赚了6321美元，大概43000元人民币。2个月的收益52%。</p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke5.8.png" alt=""></p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke5.8.png" alt=""></p>
 		<p style="margin-top: 40px;">我相信通过3年的时间我就能把鹅养的又肥又大了。到时肥鹅会不停的给我下金蛋，我的财务状况会越来越好的。</p>
 		<p style="margin-top: 40px;">最后再次感谢微淼商学院，这样一套系统的课程，对我的价值远不是金钱，而是给我的人生带来巨大的改变。我相信微淼会给更多的像我这样曾经对生活感到迷茫甚至恐惧的人带来一束光，一束希望。</p>
 		<p style="margin-top: 40px;">---------------------------------------------------------</p>
@@ -170,8 +170,8 @@
 		<p style="margin-top: 40px;">封贺老师在【在行】上的优质咨询基本是大家都知道的，封老师是中国最大的知识付费线下平台【在行】上理财领域全国评分第一名（9.7分）这是在行的官网：<a href="http://www.zaih.com/mentor/84782448/topic/29862780/">http://www.zaih.com/mentor/8478244<br>8/topic/29862780/</a></p>
 		<p style="margin-top: 40px;">如果大家不放心可以直接拨打【在行 】的官方客服电话，进行求证哈</p>
 		<p style="margin-top: 40px;">就是因为优质，敢为质量负责，所以咱们才敢签合同保障学习效果。</p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke.55.9.png" alt=""></p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/wanke.55.10.png" alt=""></p>
+		<!-- <p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke.55.9.png" alt=""></p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/wanke.55.10.png" alt=""></p> -->
 		<p style="margin-top: 40px;">2015-2016年的时候通过“在行”约见封老师1个小时需要1499元；1对多的话，每人也需要1000元。现在通过“在行”已经约不到封老师了，封老师已经很久没有接受过约见啦。</p>
 		<p style="margin-top: 40px;">封老师在2017年用了10个月的时间，平均每天大概10个小时，把他10多年的财务自由实践经验提炼成了可以落地操作的方法论，就是咱们现在的理财进阶全套课程。</p>
 		<p style="margin-top: 40px;">封老师花的那么多时间和心血研发出的课程，价值多少呢？封老师曾说过，如果是在线下通过师傅带几个徒弟的那种方式授课，没有100万的学费，他肯定是不会教的。好在有了移动互联网，通过互联网教育的方式同学们在大幅提升学习效率的同时还可以大幅降低学习成本。这也是为什么咱们24周全套课的价格还不到其价值1%的根本原因。</p>

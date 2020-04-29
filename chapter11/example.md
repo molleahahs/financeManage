@@ -1,5 +1,5 @@
  <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3> 我的草根同学的财务自由之路</h3>
 		<p style="margin-top: 40px;">主人公其貌不扬，除了头有点大之外没有其他特别的地方。于是他就有了一个外号，叫大头。直到毕业有些女同学依然叫不上他的名字，只知道他叫大头。</p>

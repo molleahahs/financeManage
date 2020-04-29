@@ -1,47 +1,47 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3> 小白必备的房地产投资神器</h3>
 		<p>在讲REITs之前我们先来逛下街。</p>
 		<p style="margin-top: 40px;">我们先来逛下北京王府井附近的一处物业，东方广场。东方广场包括了东方新天地、东方经贸城、东方豪庭公寓和东方君悦大酒店。东方新天地是商场，东方经贸城是甲级写字楼。</p>
 		<p style="margin-top: 40px;">在北京的同学没有来过这里的估计很少。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.1.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.2.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.3.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.4.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.5.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.6.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.7.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.1.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.2.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.3.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.4.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.5.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.6.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.7.png" alt=""></p>
 		<p style="margin-top: 40px;">逛完了东方广场，我们再来远观一下北京CBD的华贸中心的超甲级写字楼。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.8.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.8.png" alt=""></p>
 		<p style="margin-top: 40px;">华贸中心的写字楼获选为中国二十大写字楼之一。</p>
 		<p style="margin-top: 40px;">看完北京CBD华贸中心的写字楼， 我们再来远看一下广州CBD的地标广州国际金融中心。</p>
 		<p style="margin-top: 40px;">这栋最高的圆柱形大厦就是广州国际金融中心。广州国际金融中心是全球十大高楼之一。主塔地上共103层，地下4层。项目由超甲级写字楼、高端购物商场、五星级超豪华四季酒店、豪华公寓以及国际会议中心等五大功能组成。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.9.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.9.png" alt=""></p>
 		<p style="margin-top: 40px;">逛完了内地的高楼大厦，我们再来逛一下香港中环的花旗银行大厦。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.10.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.10.png" alt=""></p>
 		<p style="margin-top: 40px;">这三座大厦左边的中国银行大厦，中间的是花旗银行大厦，右边的是长江实业大厦。这3栋大厦都是香港的地标。当去维多利亚港看夜景的时候，我们就会看到这3栋大厦。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.11.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.11.png" alt=""></p>
 		<p style="margin-top: 40px;">我们再来近看一下花旗银行大厦。花旗银行大厦在香港中环最核心的地段，去过香港的同学很可能来过这里。</p>
 		<p style="margin-top: 40px;">没有去过香港的同学，可以把这个大厦所在的地段理解成北京的国贸或者上海的金茂大厦所在的地段就可以了。</p>
 		<p style="margin-top: 40px;">最后我们再来逛一下香港旺角的朗豪坊。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.12.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.12.png" alt=""></p>
 		<p style="margin-top: 40px;">朗豪坊在香港旺角也是地标。</p>
 		<p style="margin-top: 40px;">好了，我们就逛到这里。有兴趣的同学可以到实地去逛逛。带上你的钱包，你可能会心痛但一定不会失望。</p>
 		<p style="margin-top: 40px;">现在老师问同学们一个问题：以上地标性的商场、写字楼、酒店你想不想拥有？有的同学可能笑了，心想：我连里面的牛排都不舍得的吃。你问我想不想拥有高端商场、甲级写字楼、五星级酒店？我肯定想拥有，但是我的钱包不答应啊。</p>
 		<p style="margin-top: 40px;">其实拥有以上的物业很简单，每个人都可以也有能力拥有以上物业的一部分。</p>
 		<p style="margin-top: 40px;">比如有同学想拥有东方新天地、东方经贸城、东方豪庭公寓、东方君悦大酒店，该怎么办呢？</p>
 		<p style="margin-top: 40px;">很简单，买汇贤产业信托（87001）就可以了。东方新天地、东方经贸城、东方豪庭公寓、东方君悦大酒店这几处物业的产权归汇贤产业信托所有。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.13.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.13.png" alt=""></p>
 		<p style="margin-top: 40px;">我们可以看到汇贤的价格为3.23元一份，买1000份才3230元。每位同学都买的起。哪怕只持有1份，也拥有以上物业的一小部分。可以享有物业分红和增值收益</p>
 		<p style="margin-top: 40px;">如果有的同学想拥有华贸中心的写字楼，买春泉产业信托（01426）就可以了。华贸中心1号和2号写字楼的产权归春泉产业信托所有。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.14.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.14.png" alt=""></p>
 		<p style="margin-top: 40px;">我们可以看到春泉的价格为3.45港元一份，买1000份才3450港元。每位同学都买的起。</p>
 		<p style="margin-top: 40px;">如果有的同学想拥有广州国际金融中心、广州财富广场等物业，买越秀房产信托基金（00405）,就可以了。广州国际金融中心、广州财富广场等一些物业的产权归越秀房产信托基金所有。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.15.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.15.png" alt=""></p>
 		<p style="margin-top: 40px;">我们可以看到越秀的价格为5.26港元一份，买1000份才5260港元。每位同学都买的起。</p>
 		<p style="margin-top: 40px;">如果有同学想拥有香港的花旗银行大厦、朗豪坊这两个地标性的写字楼和商场。买冠君产业信托（02778）就可以了。花旗银行大厦、朗豪坊写字楼、朗豪坊商场的产权归冠君产业信托所有。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.16.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.16.png" alt=""></p>
 		<p style="margin-top: 40px;">我们可以看到冠君的价格为5.63港元一份，买1000份才5630港元。每位同学都买的起。</p>
 		<p style="margin-top: 40px;">如果有的同学理想远大，以上物业都想拥有。那么以上的房地产投资信托都买些就可以了。</p>
 		<p style="margin-top: 40px;">以上提到的汇贤产业信托、春泉产业信托、越秀房产信托基金、冠君产业信托都叫<span style="font-weight: bold;">房地产投资信托基金</span>英文名是“Real Estate Investment Trusts”简称“REITs”。</p>
@@ -57,14 +57,14 @@
 		<p style="margin-top: 40px;">1、“REITs”是什么？</p>
 		<p style="margin-top: 40px;">REITs是一种依照法律程序成立的，以发行股票或基金单位的方式汇集投资者的资金，由专业机构进行房地产的经营管理，并将90%以上的税后收入净额分配给投资者的一种信托组织。简单来说REITs就是代理投资者投资房地产的上市企业。</p>
 		<p style="margin-top: 40px;">下面我们来看一只美国REITs，西蒙地产。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.17.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.17.png" alt=""></p>
 		<p style="margin-top: 40px;">很多人看到西蒙地产的时候，会把它当成股票。因为它看起来确实和股票一样。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.18.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.18.png" alt=""></p>
 		<p style="margin-top: 40px;">我们把西蒙地产和保利地产放在一起看一下，是不是很像？</p>
 		<p style="margin-top: 40px;">但是西蒙地产是REITs，不是股票。保利地产是股票不是REITs。</p>
 		<p style="margin-top: 40px;">虽然REITs和房地产股票长得一样，但是它们的内涵完全不同。</p>
 		<p style="margin-top: 40px;">REITs和房地产股票区别如下：</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.19.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.19.png" alt=""></p>
 		<p style="margin-top: 40px;">下面我们来看一下REITs的内涵。</p>
 		<p style="margin-top: 40px;">REITs的内涵是法律赋予的，REITs之所以为REITs要符合一系列法律的要求。我们来看一下美国对于REITs主要的法律要求。其他国家的REITs都是在美国REITs的基础上改进的，总体上和美国REITs没有太大的差别。</p>
 		<p style="margin-top: 40px;font-weight: bold;">美国对于REITs的主要法律要求有：</p>
@@ -84,18 +84,18 @@
 		<p style="margin-top: 40px;"><span style="font-weight: bold;">5、 专业化管理。</span>REITs的管理团队都是房地产领域的专业人士。他们管理物业的能力一般会比个人强很多。如果我们自己直接买物业去管理，很可能不如REITs的管理团队管理的好。而且我们还需要花大量的时间和精力在房地产上面。</p>
 		<p style="margin-top: 40px;"><span style="font-weight: bold;">6、 收益率相对较高。</span>和直接持有物业相比，持有REITs的收益率相对比较高。比如我们现在用100万在北京东方豪庭买一套公寓进行出租，租金回报率不会超过3%。每年的租金收益不会超过3万。如果现在用100万去买汇贤产业信托呢？股息率能有多少？</p>
 		<p style="margin-top: 40px;">我们来计算一下。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.20.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.21.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.20.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.21.png" alt=""></p>
 		<p style="margin-top: 40px;">我们可以看到2018年汇贤产业信托每股现金分红0.2653元。2019年8月21日的价格为3.21元。假设未来维持0.2653元的分红不变，则股息率为8.3%。投资100万每年能获得8.3万的现金分红，比直接买房回报率高很多。</p>
 		<p style="margin-top: 40px;">每年8.3%的现金分红已经挺高了，但是在REITs中还只是中等的回报率。高的可以达到20%左右。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.22.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.22.png" alt=""></p>
 		<p style="margin-top: 40px;">比如这是一只美国REITs，每年的现金分红收益率高达18.1%。每个季度分红一次，这可是实实在在能拿到手的钱。</p>
 		<p style="margin-top: 40px;">我们可以看一下这个美国REITs的分红记录。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.23.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.23.png" alt=""></p>
 		<p style="margin-top: 40px;">我们前面介绍股票时说过，长期来看与黄金、银行存款、债券、房地产等主要投资工具相比，股票的投资回报率是最高的。</p>
 		<p style="margin-top: 40px;">但是如果与REITs的回报率相比，股票也是会稍逊风骚的。</p>
 		<p style="margin-top: 40px;">长期来看，即使和收益率之王股票相比，REITs的收益率也更高一些。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.24.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.24.png" alt=""></p>
 		<p style="margin-top: 40px;">我们可以看到在过去20年中，美国所有的权益型REITs的平均年收益率为11.19%，同期标普500的年平均收益率只有7.81%（这个回报率没有包括分红，包括分红在内标普500的年均收益率为10%左右）。</p>
 		<p style="margin-top: 40px;">现在我们知道了REITs有很多优点，那么REITs有没有风险呢？</p>
 		<p style="margin-top: 40px;">当然有啦。REITs的本质是房地产，房地产有的风险REITs基本也有。比如如果房价下跌，REITs价格也是会下跌的。</p>
@@ -118,9 +118,9 @@
 		<p style="margin-top: 40px;">最近几天有不少同学跟老师私聊的时候表示进步很大，对投资理财的认知已经有明显提升了，问老师有没有更系统的学习课程，想要进一步学习。</p>
 		<p style="margin-top: 40px;">下面老师简单说一下如何系统学习？</p>
 		<p style="margin-top: 40px;">关注“微淼商学院”公众号的同学应该也看到了，进阶课程是有的，有【财务自由系统操作课】、【财报分析技能课】、【企业分析技能课】</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.25.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.25.png" alt=""></p>
 		<p style="margin-top: 40px;">都想学，该怎么学，怎么报名呢？价格方面能不能优惠呢？下面我就来说一下</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.26.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.26.png" alt=""></p>
 		<p style="margin-top: 40px;">理财必修课【财务自由系统操作课】（149个视频+10周实践课）</p>
 		<p style="margin-top: 40px;">能学到哪些内容：能快速掌握股票（A股、港股、美股）、REITs（港、美）、房地产投资、指数基金、分级基金A、可转债、货币基金、国债逆回购、保障型保险等工具的正确操作技能，还能学会如何做好家庭财务规划、资产配置方面的技能。</p>
 		<p style="margin-top: 40px;">理财课之【财报分析技能课】（100个视频+10周实践课）</p>
@@ -133,7 +133,7 @@
 		<p style="margin-top: 40px;">【注册试听】微信-关注<span style="color: red;">“微淼商学院服务号”</span>-个人中心-注册，有一节试听课。</p>
 		<p style="margin-top: 40px;">实践课是每周一节，群解散之后就开始安排实践课了呢，会有专业的指导老师带着大家实操演练。每隔一两周都会开一个实践班，我会根据你的时间帮你安排进群学习。</p>
 		<p style="margin-top: 40px;">下面是实践课视频简介，点击【播放键】观看视频</p>
-		<video width="330px" height="374px" src="../images/shipin.mp4" controls=""></video>
+		<video width="330px" height="374px" src="../img/shipin.mp4" controls=""></video>
 		<p style="margin-top: 40px;">【视频实操课这个课是什么样的？】</p>
 		<p style="margin-top: 40px;">【视频课】主要是教授投资方法，每个3-5分钟，每个视频都是一个完整的方法、原理，随时可以在手机、电脑学习，刷朋友圈10分钟即可学习2个方法，不受时间地点限制</p>
 		<p style="margin-top: 40px;">【实践课】主要是投资方法的模拟演练，由我们的高阶专业老师带领大家实战分析真实投资目标，分享理财信息，一共10周/24周，每周一次大课，时间1.5小时左右，地点是微信小班群。</p>
@@ -158,19 +158,19 @@
 		<p style="margin-top: 40px;">视频讲的都是方法，这些方法都可以通过老师带着上实践课进一步变成你所掌握的技能。</p>
 		<p style="margin-top: 40px;">自己看视频为什么不行呢？</p>
 		<p style="margin-top: 40px;">视频课只是被动的学习，<span style="font-weight: bold;">方法论+实践才能变成你的技能。</span></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.27.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.27.png" alt=""></p>
 		<p style="margin-top: 40px;">这也是为什么训练营不是让你们自己看链接，需要老师带着一起学习的原因。</p>
 		<!-- <p style="margin-top: 40px;">因为实践课班群采用小群教学。为了不影响教学质量，班群的人数不会太多。咱们班级有【40】个名额的优惠。</p> -->
 		<p style="margin-top: 40px;">咱们实践课班群是【永久保留】的，学习实践课你就有自己的财务自由【圈子】，有好的机会出现时大家都会共享的。毕业后享受指导老师【持续】指导。</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.28.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.28.png" alt=""></p>
 		<p style="margin-top: 40px;color: red;">大家看下课程优惠方案，自己决定好了可以私聊老师哈</p>
 		<p style="margin-top: 40px;">再给大家看下实践班的上课情况哈</p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.29.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.30.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.31.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.32.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.33.png" alt=""></p>
-		<p style="margin-top: 40px;"><img src="../images/wanke7.34.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.29.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.30.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.31.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.32.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.33.png" alt=""></p>
+		<p style="margin-top: 40px;"><img src="../img/wanke7.34.png" alt=""></p>
 		<p style="margin-top: 40px;">温馨提示：2998和6998的最优惠价格为小白营学员专属，优惠名额用完即恢复原价16998，需要优惠名额的同学们私聊老师哈</p>       
 	</div>
 </div>

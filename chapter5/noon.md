@@ -1,14 +1,14 @@
 <div>
-		<div><img src="../images/banner.png" alt=""></div>
+		<div><img src="../img/banner.png" alt=""></div>
 		<div>
 				<h3> 虚拟货币投资骗局</h3>
 				<p>今天老师带大家看一下虚拟货币骗局</p>
 				<p style="margin-top: 40px;">老师相信各位小伙伴一定是听说过比特币的，比特币的崛起造就了无数屌丝逆袭的神话</p>
 				<p style="margin-top: 40px;">有的小伙伴可能在早年接触过比特币，但是当时却没有下手，这种感觉就像错过了整个世界。</p>
 				<p style="margin-top: 40px;">我们看下这张图</p>
-				<p style="margin-top: 40px;"><img src="../images/fangpian6.1.png" alt=""></p>
+				<p style="margin-top: 40px;"><img src="../img/fangpian6.1.png" alt=""></p>
 				<p style="margin-top: 40px;">在2009年的时候，1美元可以兑换1309.03个比特币，如果你看到这个数字美元概念，我们再来看一下比特币现在的价格</p>
-				<p style="margin-top: 40px;"><img src="../images/fangpian6.2.png" alt=""></p>
+				<p style="margin-top: 40px;"><img src="../img/fangpian6.2.png" alt=""></p>
 				<p style="margin-top: 40px;">一枚比特币价值43108.3人民币，有点晕，拿个计算机算一下</p>
 				<p style="margin-top: 40px;">如果当时拿1美元买了1300枚比特币，十年不到的时间，现在已经是5600万人民币了，我滴个天啦</p>
 				<p style="margin-top: 40px;">谁能给老师一台穿梭机，不要拦着我，老师要去买一打。</p>

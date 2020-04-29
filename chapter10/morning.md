@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3> 对于年轻人，财务自由有多重要？</h3>
 		<p style="font-weight: bold;text-align: center;">1</p>
@@ -52,7 +52,7 @@
 		<p style="margin-top: 40px;">老师：这个现金流入就是你的非工资收入。</p>
 		<p style="margin-top: 40px;">老师：非工资收入对于一个人的幸福意义重大。因为相比于工资收入，非工资收入更稳定更持久更安全。</p>
 		<p style="margin-top: 40px;">老师：为什么这样说呢？我们来看一下人生收支曲线图。</p>
-		<p style="margin-top: 40px;"><img style="display: block;" src="../images/2.1.png" alt=""></p>
+		<p style="margin-top: 40px;"><img style="display: block;" src="../img/2.1.png" alt=""></p>
 		<p style="margin-top: 40px;">老师：根据人生收支示意图，大部分人的工资类收入会在40-45岁左右达到人生顶峰，之后会开始下降。退休之后会进一步下降。这很容易理解。因为随着年龄的增大，45岁之后，大部分人的竞争力是会减弱，收入自然也会下降。</p>
 		<p style="margin-top: 40px;">老师：而人在退休之后的支出却会增加，这其中大部分是医疗费。收入的减少和支出的增加<span style="font-weight: bold;">（B点）</span>会消耗掉绝大部分存款，甚至还会出现负债。靠工资收入的家庭在退休之后很可能会面临财务困境或财务危机。这个时候能做的就只有“拼孩”了。</p>
 		<p>老师：我在香港、日本见到很多70多岁的老人还在辛苦工作，还是很感慨的。他们是退而不能休。中国现在已经开始延长退休年龄了，未来靠工资收入的大部分人很可能70多岁也必须要工作。因为由于通胀，你的退休金根本没法维持你的生活。你能想象你70多岁了还必须要去谋生的情形吗？ </p>

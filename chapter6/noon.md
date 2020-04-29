@@ -1,5 +1,5 @@
 <div>
-	<div><img src="../images/banner.png" alt=""></div>
+	<div><img src="../img/banner.png" alt=""></div>
 	<div>
 		<h3> 二元期权投资骗局</h3>
 		<p>今天老师给大家说一个二元期权投资骗局</p>
